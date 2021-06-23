@@ -1,4 +1,5 @@
-# zoom-us-ios-sdk-dev-pod
+# This repo is deprecated due to the complexity of the new zoom ios sdk
+
 This is an unofficial POD of ZOOM iOS SDK for Simulators
 [ZOOM iOS SDK RELEASE](https://github.com/zoom/zoom-sdk-ios/releases/tag/v5.0.24433.0616)
 
